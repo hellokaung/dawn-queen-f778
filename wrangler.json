@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dawn-queen-f778",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a8f7bbc0-320c-4db3-b529-eee0de1344d3",
+      "database_name": "shy-cell-81a0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
